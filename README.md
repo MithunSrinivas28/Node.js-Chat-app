@@ -16,6 +16,6 @@ This project was created while learning the fundamentals of Node.js and socket c
 ## 🛠 Tech Stack
 - **Backend:** Node.js, Express, ws (WebSocket library)
 - **Frontend:** HTML, CSS, JavaScript
-- **Tools:** VS Code, npm
+- **Tools:** VS Code, npm.
 
 ---
